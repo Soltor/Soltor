@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sol
+- 👀 I’m interested in AI and plants
+- 🌱 I’m currently learning Vue.js, React, and AWS
+- 💞️ I’m looking to collaborate on AI and plants
+- 📫 How to reach me insolated@gmail.com IG @solinyourhead
